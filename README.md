@@ -1,4 +1,6 @@
 # Bivariate Gorilla Point Pattern Modeling with inlabru
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20457905.svg)](https://doi.org/10.5281/zenodo.20457905)
+
 Some inlabru code for gorilla data with two types of point patterns.
 
 We assume a bivariate LGCP model:
